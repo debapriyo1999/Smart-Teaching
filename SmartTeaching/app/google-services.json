@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "700400037975",
+    "project_id": "smart-teaching-e9f7e",
+    "storage_bucket": "smart-teaching-e9f7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700400037975:android:cfa7667946a6233dc3f312",
+        "android_client_info": {
+          "package_name": "smart.teaching.smartteaching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700400037975-nb0u38dj7e1lfrnqtkqmcnqaqhdsq781.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "smart.teaching.smartteaching",
+            "certificate_hash": "b420d8447c5b4e7e6c20606d9257bc6ff29c9843"
+          }
+        },
+        {
+          "client_id": "700400037975-2jcardnsme93onfmtd4c1g94kcl6robf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhOreAr1gr9MzaZY6UShiVhqRpn5MjiIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700400037975-2jcardnsme93onfmtd4c1g94kcl6robf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
