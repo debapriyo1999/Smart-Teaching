@@ -4,6 +4,7 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+
 public class SecondActivity extends AppCompatActivity {
 
     @Override
@@ -11,4 +12,6 @@ public class SecondActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second);
     }
+
+
 }
